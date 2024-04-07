@@ -40,8 +40,6 @@ For more details about the game or its development, refer to the code and docume
 
 Enjoy playing the game! If you encounter any issues or have questions, feel free to reach out.
 
-<img width="837" alt="Screenshot 2024-04-07 alle 21 07 28" src="https://github.com/adgianv/2D_Game---PacMan/assets/137940937/d14c4c5c-9efe-4d62-96ce-b08c16b06a52">
-
 ![video_pacman-ezgif com-video-to-gif-converter](https://github.com/adgianv/2D_Game---PacMan/assets/137940937/7bceeb28-5774-4cf1-9c5a-13cd1040e303)
 
 
