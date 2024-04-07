@@ -35,7 +35,7 @@ Use the arrow keys to navigate Pac-Man through the maze.
 
 Press esc to exit the game.
 
-## Additional Information
+## Additional Information
 For more details about the game or its development, refer to the code and documentation within this repository.
 
 ![video_pacman-ezgif com-video-to-gif-converter](https://github.com/adgianv/2D_Game---PacMan/assets/137940937/7bceeb28-5774-4cf1-9c5a-13cd1040e303)
