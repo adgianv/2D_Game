@@ -21,7 +21,7 @@ git clone https://github.com/adgianv/2D_Game.git
 make re
 ```
 
-Running the Game
+## Running the Game
 After successful compilation, you will find an executable icon named PAC-MAN on your Desktop. Double-click this icon to start the game.
 
 <img width="114" alt="Screenshot 2024-04-07 alle 20 57 02" src="https://github.com/adgianv/2D_Game/assets/137940937/f1592009-b062-4b0f-9099-926ea8441aed">
