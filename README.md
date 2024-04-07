@@ -6,10 +6,11 @@ Welcome!
 
 To get started, clone this repository to your local machine. You can do this by opening your terminal and running the following command:
 
+**Make sure to clone it to your Desktop**
+
 ```bash
-git clone https://github.com/adgianv/2D_Game.git ~/Desktop/2D_Game
+git clone https://github.com/adgianv/2D_Game.git
 ```
-**Make sure to clone it to your Desktop for easy access.**
 
 ## Compilation
 
