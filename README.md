@@ -32,8 +32,10 @@ Note: Ensure that the repository remains on your Desktop, or you'll need to adju
 The game plays similarly to traditional Pac-Man with a few modifications:
 
 Use the arrow keys to navigate Pac-Man through the maze.
+
 Press esc to exit the game.
-Additional Information
+
+## Additional Information
 For more details about the game or its development, refer to the code and documentation within this repository.
 
 Enjoy playing the game! If you encounter any issues or have questions, feel free to reach out.
