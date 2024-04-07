@@ -38,9 +38,9 @@ Press esc to exit the game.
 ## Additional Information
 For more details about the game or its development, refer to the code and documentation within this repository.
 
-Enjoy playing the game! If you encounter any issues or have questions, feel free to reach out.
-
 ![video_pacman-ezgif com-video-to-gif-converter](https://github.com/adgianv/2D_Game---PacMan/assets/137940937/7bceeb28-5774-4cf1-9c5a-13cd1040e303)
+
+Enjoy playing the game! If you encounter any issues or have questions, feel free to reach out.
 
 
 
