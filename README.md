@@ -33,7 +33,11 @@ The game plays similarly to traditional Pac-Man with a few modifications:
 
 Use the arrow keys to navigate Pac-Man through the maze.
 
-Press esc to exit the game.
+You win when reaching the portal after collecting all the coins and the fruit in the maze. 
+
+Press `R` to restart the game after losing.
+
+Press `ESC` to exit the game.
 
 ## Additional Information
 For more details about the game or its development, refer to the code and documentation within this repository.
