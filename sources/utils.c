@@ -17,7 +17,7 @@ void	close_pacman(t_game *game)
 	int	len;
 
 	len = 32;
-	game->map.player = mlx_xpm_file_to_image(game->mlx, "/Users/user/Desktop/MY CODE/Projects/C/Pacman/img/player_closed.xpm",
+	game->map.player = mlx_xpm_file_to_image(game->mlx, "./2D_Game/img/player_closed.xpm",
 			&len, &len);
 	game->was_coin = 0;
 }
