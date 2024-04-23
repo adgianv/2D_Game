@@ -13,9 +13,9 @@
 #ifndef SO_LONG_H
 # define SO_LONG_H
 
-# include "/Users/user/Desktop/MY CODE/Projects/C/Pacman/get_next_line/get_next_line.h"
-# include "/Users/user/Desktop/MY CODE/Projects/C/Pacman/printf/ft_printf.h"
-# include "/Users/user/Desktop/MY CODE/Projects/C/Pacman/includes/mlx.h"
+# include "../get_next_line/get_next_line.h"
+# include "../printf/ft_printf.h"
+# include "../includes/mlx.h"
 # include <fcntl.h>
 # include <stddef.h>
 # include <stdio.h>
